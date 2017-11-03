@@ -27,7 +27,11 @@
     "layout",
     "react",
     "reactjs",
-    "react-component"
+    "react-component",
+    "split",
+    "pane",
+    "resize",
+    
   ],
   "repository": {
     "type": "git",
